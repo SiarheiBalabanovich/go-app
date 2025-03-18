@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/go-app/static/css/main.4b047f4e.css",
+    "main.js": "/go-app/static/js/main.7fa3980e.js",
+    "static/media/stars-bg.jpg": "/go-app/static/media/stars-bg.50c6137d00db9f5414b2.jpg",
+    "static/media/offer_3.png": "/go-app/static/media/offer_3.646b1e5bbbdf71c6ba20.png",
+    "static/media/rocket.svg": "/go-app/static/media/rocket.bf2dbb7c0c33ada062ba.svg",
+    "static/media/offer_2.png": "/go-app/static/media/offer_2.1b33f44034995065027d.png",
+    "static/media/offer_4.jpg": "/go-app/static/media/offer_4.c03b39ecd0d2ec39d5e7.jpg",
+    "static/media/offer_1.jpg": "/go-app/static/media/offer_1.f49d31d245109229a306.jpg",
+    "static/media/EARTH.png": "/go-app/static/media/EARTH.9e57b560290c63203892.png",
+    "static/media/logo.svg": "/go-app/static/media/logo.f4153131d3955bdfa609912a9f3b5caf.svg",
+    "static/media/cart.svg": "/go-app/static/media/cart.b697889a2021dbe00a30.svg",
+    "static/media/menu_burger.svg": "/go-app/static/media/menu_burger.7e65dcdbfcb4fb7f60ea90f61a0ab5f8.svg",
+    "static/media/close_burger.svg": "/go-app/static/media/close_burger.60d4f41347544050a7b9d2915be4e499.svg",
+    "index.html": "/go-app/index.html",
+    "main.4b047f4e.css.map": "/go-app/static/css/main.4b047f4e.css.map",
+    "main.7fa3980e.js.map": "/go-app/static/js/main.7fa3980e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b047f4e.css",
+    "static/js/main.7fa3980e.js"
+  ]
+}
