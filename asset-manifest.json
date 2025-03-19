@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/go-app/static/css/main.4b047f4e.css",
-    "main.js": "/go-app/static/js/main.f64b03f4.js",
+    "main.js": "/go-app/static/js/main.b56634f2.js",
     "static/media/stars-bg.jpg": "/go-app/static/media/stars-bg.50c6137d00db9f5414b2.jpg",
     "static/media/offer_3.png": "/go-app/static/media/offer_3.646b1e5bbbdf71c6ba20.png",
     "static/media/rocket.svg": "/go-app/static/media/rocket.bf2dbb7c0c33ada062ba.svg",
@@ -15,10 +15,10 @@
     "static/media/close_burger.svg": "/go-app/static/media/close_burger.60d4f41347544050a7b9d2915be4e499.svg",
     "index.html": "/go-app/index.html",
     "main.4b047f4e.css.map": "/go-app/static/css/main.4b047f4e.css.map",
-    "main.f64b03f4.js.map": "/go-app/static/js/main.f64b03f4.js.map"
+    "main.b56634f2.js.map": "/go-app/static/js/main.b56634f2.js.map"
   },
   "entrypoints": [
     "static/css/main.4b047f4e.css",
-    "static/js/main.f64b03f4.js"
+    "static/js/main.b56634f2.js"
   ]
 }
